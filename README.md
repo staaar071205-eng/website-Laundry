@@ -8,7 +8,7 @@
 
        composer install
 
-5. Buka `http://localhost/tugas-mvc/public`
+5. Buka `http://localhost/Praktik%20Matkul%20PBWL%20Sem%205/tugas%20quis/website-Laundry/public`
 6. Login: username `admin`, password `password`
 
 Jika koneksi database berbeda, ubah file `.env`.
