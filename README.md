@@ -1,5 +1,5 @@
 # Tugas PBWL - Sistem Informasi Laundry (PHP MVC)
-
+Riski Amanda NIM: 0702243150
 ## Cara menjalankan
 1. Jalankan Apache dan MySQL di XAMPP.
 2. Di phpMyAdmin, jalankan isi `database.sql` (tab SQL atau Import).
