@@ -2,7 +2,7 @@
 
 **TUGAS Pemrograman Berbasis Web Lanjutan**  
 Riski Amanda NIM : 0702243150
-Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027
+Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027                                                 
 UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
 
 ## Cara menjalankan
