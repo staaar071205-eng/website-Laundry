@@ -1,8 +1,10 @@
 # Tugas PBWL - Sistem Informasi Laundry (PHP MVC)
-Riski Amanda NIM : 0702243150
+
 **TUGAS Pemrograman Berbasis Web Lanjutan**  
-UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
+Riski Amanda NIM : 0702243150
 Dosen: Suendri, M.Kom · Semester Ganjil 2026/2027
+UIN Sumatera Utara Medan, Fakultas Sains dan Teknologi
+
 ## Cara menjalankan
 1. Jalankan Apache dan MySQL di XAMPP.
 2. Di phpMyAdmin, jalankan isi `database.sql` (tab SQL atau Import).
